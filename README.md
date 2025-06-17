@@ -52,7 +52,22 @@ All simulations were designed and tested using [Tinkercad](https://www.tinkercad
 - LEDs, switches, resistors, virtual wiring
 
 ---
+##🔧 Hardware Setup
+To explore the logic gate-based smart office systems and understand the hardware setup:
 
+➡️ Follow the below Tinkercad circuits:
+
+https://www.tinkercad.com/things/2tvueQ5r5Wa-smooth-migelo?sharecode=UI4DiRmRrc8G2J4mHyJaddwimDS0sUn1eZaElHtX9BA
+
+https://www.tinkercad.com/things/3VI9A0Zt2Ia-funky-lappi?sharecode=tzxwH-TtvvTCtBBfdwXlCmIWfXNWQRhdr6IoL59mM5g
+
+https://www.tinkercad.com/things/iNrtUfUVUp2-mighty-fyyran?sharecode=PmxV1kbJX4TzhE7OdqnVaC_UWwLAEfoUWB2tkAOlVrE
+
+https://www.tinkercad.com/things/8hlst4iwupZ-shiny-jofo-kieran?sharecode=oEmCAY3-Im-_fewQ7fE3TIruOmxqOuXMqh6C9kZF0oE
+
+https://www.tinkercad.com/things/ddIdaq0jLHT-frantic-elzing-jaiks?sharecode=lqIKH0ry9ADZOUoip_hfNqOGrFQLGW53ThFSc_BZs8Y
+
+📝 Refer to these circuits to understand the logical implementation and hardware setup used in the Smart Office Electronics project.
 ## 📄 License
 
 Created for educational and demonstration purposes. You may use and modify it freely for learning or teaching.
