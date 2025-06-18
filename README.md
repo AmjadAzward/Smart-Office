@@ -52,7 +52,7 @@ All simulations were designed and tested using [Tinkercad](https://www.tinkercad
 - LEDs, switches, resistors, virtual wiring
 
 ---
-##🔧 Hardware Setup
+## 🔧 Hardware Setup
 To explore the logic gate-based smart office systems and understand the hardware setup:
 
 ➡️ Follow the below Tinkercad circuits:
