@@ -1,4 +1,4 @@
-# 🏢 Smart Office Electronics
+#  Smart Office Electronics
 
 A project simulating a **Smart Office System** using **Logic Gates** built in **Tinkercad**. This project automates office electronics (like lighting, fan control, and security alerts) through hardware logic—no programming required.
 
