@@ -2,6 +2,10 @@
 
 A project simulating a **Smart Office System** using **Logic Gates** built in **Tinkercad**. This project automates office electronics (like lighting, fan control, and security alerts) through hardware logic—no programming required.
 
+![Smart Office Screenshot](https://raw.githubusercontent.com/AmjadAzward/Smart-Office/main/Images/WhatsApp%20Image%202025-06-19%20at%2011.50.02_08c516ad.jpg)
+
+![Smart Office Screenshot](https://raw.githubusercontent.com/AmjadAzward/Smart-Office/main/Images/WhatsApp%20Image%202025-06-19%20at%2011.50.02_d95d2446.jpg)
+
 ---
 
 ## ⚙️ Project Overview
