@@ -73,6 +73,8 @@ https://www.tinkercad.com/things/ddIdaq0jLHT-frantic-elzing-jaiks?sharecode=lqIK
 
 Refer to these circuits to understand the logical implementation and hardware setup used in the Smart Office Electronics project.
 
+---
+
 ##  License
 
 Created for educational and demonstration purposes. You may use and modify it freely for learning or teaching.
